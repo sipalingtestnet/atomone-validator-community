@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| SIPALING-TESTNET | https://node.sipalingtestnet.com/ | https://x.com/sptnode  | Indonesia | https://github.com/sipalingtestnet | sptnode@gmail.com | sptnode         | A3836FFF0F5C5F313C8883D788F7D88299F516E446A788EC7DD74E6BC2F7E7E6 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
